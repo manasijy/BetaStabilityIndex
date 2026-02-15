@@ -1,9 +1,12 @@
 beta_stability_app/
-│
-├── app.py
-├── calculator.py
-├── presets.py
-├── requirements.txt
+
+│── app.py
+│── calculator.py
+│── presets.py
+│── requirements.txt
+│── README.md
+│── .gitignore
+
 
 usage
 PS D:\OneDrive\PythonWork\BetaStabilityIndex> streamlit run app.py
